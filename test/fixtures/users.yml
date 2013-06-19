@@ -3,3 +3,15 @@ bjorn:
     last_name: "Hughes"
     email: "bjorn.hughes@gmail.com"
     profile_name: "bjornhughes"	
+
+jason:
+  first_name: "Jason"
+  last_name: "Seifer"
+  email: "jason@teamtreehouse.com"
+  profile_name: "jasonseifer"
+
+jim:
+  first_name: "Jim"
+  last_name: "Hoskins"
+  email: "jim@teamtreehouse.com"
+  profile_name: "jimhoskins"
